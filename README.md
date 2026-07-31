@@ -1,3 +1,66 @@
+# 🚀 Shamsul Islam Sujon | Portfolio Website
+
+Welcome to the official portfolio website of **Shamsul Islam Sujon**, a passionate **Frontend & MERN Stack Developer** based in Bangladesh. This project showcases my interactive web applications, academic achievements, technical skill set, and contact channels in a modern, dark-themed UI.
+
+🌐 **Live Demo:**https://portfolio-ten-zeta-8el9tu0ttc.vercel.app/
+
+---
+
+## 🌟 Features
+
+- **Hero Section:** Ambient background glow with custom floating badges and quick action CTAs.
+- **Academic Background:** Detailed timeline covering secondary, higher secondary, and ongoing university education at NSTU.
+- **Technical Skills:** Categorized breakdown of Frontend, Backend, Database, and Tooling capabilities.
+- **Featured Projects Gallery:** Interactive cards with live links, feature breakdowns, and tech stack tags.
+- **Contact Hub:** Integrated form alongside quick-action direct links for WhatsApp and Email.
+- **Glassmorphic UI Design:** High-performance dark aesthetic powered by Tailwind CSS.
+
+---
+
+## 🛠️ Tech Stack & Dependencies
+
+- **Framework:** [Next.js](https://nextjs.org/) (React 18 / 19)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Iconography:** [Lucide React](https://lucide.dev/)
+- **Deployment:** [Vercel](https://vercel.com/)
+
+---
+
+## 📂 Featured Projects Showcase
+
+| Project Name | Category | Live Demo |
+| :--- | :--- | :--- |
+| **Hassle to Hansle** | Restaurant & Food Ordering | [Live Link](https://hassle-to-hansle.vercel.app/) |
+| **DriveEase** | Car Reservation & Fleet System | [Live Link](https://carreservationclient-65mtzryu0-shamsul756s-projects.vercel.app/) |
+| **LegalEase** | Legal Consultation & Directory | [Live Link](https://legal-ease-main.vercel.app) |
+| **StudyCorner** | Library & Room Reservation | [Live Link](https://study-phi-coral.vercel.app) |
+
+---
+
+## 🎓 Academic Background
+
+- **B.Sc. in Management Information Systems (MIS)** | Noakhali Science and Technology University (CGPA 3.54+)
+- **Higher Secondary Certificate (HSC)** | Sylhet Govt. College (GPA 4.69)
+- **Secondary School Certificate (SSC)** | Hazrat Shahparan (R.) High School (GPA 4.17)
+
+---
+
+## ⚡ Getting Started Locally
+
+To run this project locally on your machine, follow these steps:
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v18.0.0 or higher)
+- `npm` or `yarn`
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/shamsul756/portfolio.git](https://github.com/shamsul756/portfolio.git)
+   cd portfolio
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

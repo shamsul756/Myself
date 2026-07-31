@@ -13,7 +13,7 @@ import {
   Sparkles,
   Rocket
 } from "lucide-react";
-import Footer from "../components/ui/Footer";
+
 import Navbar from "../components/ui/Navbar";
 
 export default function SkillsSection() {
